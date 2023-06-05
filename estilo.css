@@ -1,0 +1,15 @@
+﻿body {
+	color: black;
+	background-color: black;
+	background-image: url("https://images.wallpaperscraft.com/image/single/fog_trees_bw_157820_3840x2160.jpg"); 
+}
+
+	#text{
+	position: absolute;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    color: white;
+    text-align: center;
+	}
+

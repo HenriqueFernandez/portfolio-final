@@ -1,0 +1,138 @@
+﻿
+
+
+
+#A {
+	width: 49%;
+    height: 49vh;
+    background-color: #FFC16A; 
+    float: left;
+}
+#B  {
+    width: 50%;
+    height: 49vh;
+    background-color: #6A8FFF; 
+    float: left;
+
+}
+#C {
+	width: 24%;
+    height: 49vh;
+    background-color: #EAFF6A;
+    float: left;	
+  
+}
+#E {
+    width: 25%;
+    height: 49vh;
+    background-color: #8BFF6A;
+    float: left;
+
+}
+#D {
+    width: 50%;
+    height: 49vh;
+    background-color: #6AFFE2;
+    float: left;
+
+}
+
+  .caixas div {
+    border: 1px solid black;
+  }
+
+h1{
+    float: right;
+    margin-right: 20px;
+    font-size: 50px;
+    color: white;
+    margin-top: 10vh;
+}
+
+p {
+    position: absolute;
+    top: 130%;
+    right: 0;
+    width: 33.33%;
+    height: 100vh;
+    color: white;
+    margin-right: 30px;
+    font-size: 18px;
+  }
+
+img{
+    width: 250px;
+    margin-left: 30px;
+    position: absolute;
+    top: 120%;
+    left: 5%;
+    border: 1px solid black;
+}
+
+body{
+  max-width: 100vh;
+  color: black;
+	background-color: black;
+	background-image: url("https://images.wallpaperscraft.com/image/single/fog_trees_bw_157820_3840x2160.jpg"); 
+}
+
+.menu-icon {
+  display: block;
+  cursor: pointer;
+  font-size: 24px;
+  color: red;
+  margin-bottom: 20px;
+}
+
+.menu {
+  display: none;
+  float: left;
+}
+
+#menu-toggle:checked ~ .menu {
+  display: block;
+}
+
+h2{
+    float: right;
+    font-size: 50px;
+    color: white;
+    margin-top: 150vh;
+    position: absolute;
+    right: 0;
+
+
+}
+
+h3{
+  position: absolute;
+  top: 260%;
+  right: 0;
+  width: 33.33%;
+  height: 100vh;
+  color: white;
+  margin-right: 30px;
+  font-size: 45px;
+}
+
+h4{
+  position: absolute;
+  top: 270%;
+  right: 0;
+  width: 33.33%;
+  height: 100vh;
+  color: white;
+  margin-right: 30px;
+  font-size: 45px;
+}
+
+h5{
+  position: absolute;
+  top: 280%;
+  right: 0;
+  width: 33.33%;
+  height: 100vh;
+  color: white;
+  margin-right: 30px;
+  font-size: 45px;
+}
